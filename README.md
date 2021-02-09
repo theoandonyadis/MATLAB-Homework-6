@@ -1,1 +1,2 @@
 # MATLAB-Homework-6
+This code is an algorithm which implements an algorithm based on a flowchart, and tests with 3 different cases. There are three variables, A, B, and C. The flowchart starts by reading each variable, then tests if A>B. If true, it tests A>C, and if false, it tests B<C. If A>C is true, the code prints that A is largest, and if false, the code prints that C is largest. If B<C is true, the code prints that C is largest, and if false, the code prints that B is largest.
